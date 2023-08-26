@@ -1,11 +1,20 @@
 # React
 ## From Basics to Mastery
 
-## FOLDER STRUCTURE
+### FOLDER STRUCTURE
 
 1. Node_Modules folder is used to keep all modules in ur app and it adds all npm packages
+
 2. Public Folder consists of all the assets used in your project and it has a manifest.json used for seo and inside here we have an index.html which gets injected into this index.html page particularly in the div
-3. SRC/Source Folder has all essential files needed to make the react app to run. This is where most days will be spent. App.css contains the styles for the App.js and the index.css has the css to be used by the entire platform. setup.js, reportWebVitals.js are used for performance testing. logo.svg is defaultly displayed. It is absolutely safe to delete all these files and where they are referenced.
+
+3. SRC/Source Folder has all essential files needed to make the react app to run. This is where most days will be spent. App.css contains the styles for the App.js and the index.css has the css to be used by the entire platform. setup.js, reportWebVitals.js are used for performance testing. logo.svg is defaultly displayed. It is absolutely safe to delete all these files and where they are referenced. Most important file is the index.js file
+
+### Root Files
+1. .gitIgnore file is used in version control to show what must be added or removed and it isnt specific to react
+
+2. package.json lists info related to the app and allows NPM to run several scripts and perform tasks in the project
+
+3. package.lock.json holds the list of all dependences with their versions and allows npm to rebuild the project on another computer and keeps track of all the modules
 
 ### `npm start`
 
