@@ -1,4 +1,4 @@
-# React
+# React Web
 ## From Basics to Mastery
 
 ### FOLDER STRUCTURE
