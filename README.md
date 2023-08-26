@@ -7,6 +7,8 @@
 
 2. Group by file type
 
+*_NB: NEVER SPEND MORE THAN 5 MINUTES SETTING UP A PROJECT_*
+
 ### FOLDER STRUCTURE
 
 1. Node_Modules folder is used to keep all modules in ur app and it adds all npm packages
