@@ -1,4 +1,5 @@
-# App 2
+# React
+## From Basics to Mastery
 
 ## FOLDER STRUCTURE
 
