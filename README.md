@@ -1,6 +1,12 @@
 # React Web
 ## From Basics to Mastery
 
+### Organizing Your Code
+
+1. Group by feature 
+
+2. Group by file type
+
 ### FOLDER STRUCTURE
 
 1. Node_Modules folder is used to keep all modules in ur app and it adds all npm packages
