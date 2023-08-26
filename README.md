@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# App 2
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## FOLDER STRUCTURE
 
-## Available Scripts
-
-In the project directory, you can run:
+1. Node_Modules folder is used to keep all modules in ur app and it adds all npm packages
+2. Public Folder consists of all the assets used in your project and it has a manifest.json used for seo and inside here we have an index.html which gets injected into this index.html page particularly in the div
+3. SRC/Source Folder has all essential files needed to make the react app to run. This is where most days will be spent. App.css contains the styles for the App.js and the index.css has the css to be used by the entire platform. setup.js, reportWebVitals.js are used for performance testing. logo.svg is defaultly displayed. It is absolutely safe to delete all these files and where they are referenced.
 
 ### `npm start`
 
